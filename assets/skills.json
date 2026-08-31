@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "Self-rated, confirmed by Omar on 2026-08-31. Anchored to: Alaseel as the flagship Electron build, the Cisco CCNA, 13 AWS serverless projects and 3 CodeAlpha ML pipelines. Values are 0-100; 5-8 axes reads best. Edit freely - the Charts and cards workflow redraws the radar on every push to this file.",
+  "axes": [
+    { "label": "Desktop / Electron", "value": 88 },
+    { "label": "JavaScript",         "value": 85 },
+    { "label": "Python",             "value": 80 },
+    { "label": "Machine Learning",   "value": 75 },
+    { "label": "AWS / Serverless",   "value": 70 },
+    { "label": "Networking",         "value": 72 },
+    { "label": "C / C++",            "value": 65 }
+  ]
+}

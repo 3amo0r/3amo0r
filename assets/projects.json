@@ -1,0 +1,25 @@
+{
+  "_comment": "Featured repos, in README order. Star/fork/language come live from the API on every run; the description here overrides the repo's GitHub description. All five of yours currently have none set - worth setting them on GitHub too.",
+  "projects": [
+    {
+      "repo": "ALASSEL-PMS-",
+      "description": "An offline-first hotel property management system that runs a real front desk with no cloud dependency. 10+ modules, six staff roles under role-based access control, full Arabic/RTL localisation."
+    },
+    {
+      "repo": "Restaurant-POS",
+      "description": "A native restaurant point-of-sale built on Rust and Tauri."
+    },
+    {
+      "repo": "CodeAlpha_Emotion_Recognition",
+      "description": "Speech emotion recognition from audio. Roughly 78% accuracy across the evaluation set."
+    },
+    {
+      "repo": "CodeAlpha_Disease_Prediction",
+      "description": "Identified which clinical indicators carry the predictive signal, not just an accuracy number."
+    },
+    {
+      "repo": "CodeAlpha_Credit_Scoring_Model",
+      "description": "A model selection grounded in the metrics that matter when the positive class is rare."
+    }
+  ]
+}
