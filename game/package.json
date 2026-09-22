@@ -1,0 +1,23 @@
+{
+  "name": "aast-odyssey-2026",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "description": "The AAST 2026 Odyssey - a pixel-art RPG for the AASTMT Computer Engineering class of 2026",
+  "scripts": {
+    "dev": "vite",
+    "build": "node scripts/validate-maps.mjs && vite build",
+    "preview": "vite preview --port 4173",
+    "validate": "node scripts/validate-maps.mjs",
+    "smoke": "node scripts/smoke.mjs",
+    "progression": "node scripts/progression.mjs",
+    "test": "npm run validate",
+    "test:browser": "npm run smoke && npm run progression"
+  },
+  "dependencies": {
+    "phaser": "3.90.0"
+  },
+  "devDependencies": {
+    "vite": "^6.4.3"
+  }
+}

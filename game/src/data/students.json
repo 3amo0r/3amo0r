@@ -1,0 +1,1511 @@
+{
+  "generated_by": "scripts/build_students.py",
+  "count": 188,
+  "stages": 5,
+  "students": [
+    {
+      "id": "s001",
+      "full_name": "Engineer 001",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "كل واحد فينا كان Thread، والنهاردة بنعمل join."
+    },
+    {
+      "id": "s002",
+      "full_name": "Engineer 002",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "لو الـ WiFi وقع، البروجكت وقع معاه."
+    },
+    {
+      "id": "s003",
+      "full_name": "Engineer 003",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الـ Git merge conflict ده هيخلص صداقات."
+    },
+    {
+      "id": "s004",
+      "full_name": "Engineer 004",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "المحاضرة الساعة ٨؟ دي شائعة."
+    },
+    {
+      "id": "s005",
+      "full_name": "Engineer 005",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "أنا مخلص المشروع… في دماغي."
+    },
+    {
+      "id": "s006",
+      "full_name": "Engineer 006",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "شغال على الـ Bug ده من امبارح، طلع اسم المتغير غلط."
+    },
+    {
+      "id": "s007",
+      "full_name": "Engineer 007",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الديدلاين النهاردة؟ يبقى هنبدأ النهاردة."
+    },
+    {
+      "id": "s008",
+      "full_name": "Engineer 008",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الدفعة دي أحسن Exception حصلت في حياتي."
+    },
+    {
+      "id": "s009",
+      "full_name": "Engineer 009",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "It works on my machine. مش مشكلتي بقى."
+    },
+    {
+      "id": "s010",
+      "full_name": "Engineer 010",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "مبنى G متاهة، وأنا المينوتور."
+    },
+    {
+      "id": "s011",
+      "full_name": "Engineer 011",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "كل سنة بقول هغير تخصص، وكل سنة بفضل."
+    },
+    {
+      "id": "s012",
+      "full_name": "Engineer 012",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "مفيش حاجة اسمها bug، دي feature مش متوثقة."
+    },
+    {
+      "id": "s013",
+      "full_name": "Engineer 013",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "لو رجع بيا الزمن، هختار نفس الكلية. وهندم تاني."
+    },
+    {
+      "id": "s014",
+      "full_name": "Engineer 014",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "يوم التخرج ده الـ return statement بتاعنا."
+    },
+    {
+      "id": "s015",
+      "full_name": "Engineer 015",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الكافيتريا هي المعمل الحقيقي."
+    },
+    {
+      "id": "s016",
+      "full_name": "Engineer 016",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "مفيش حاجة اسمها bug، دي feature مش متوثقة."
+    },
+    {
+      "id": "s017",
+      "full_name": "Engineer 017",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "كل سنة بقول هغير تخصص، وكل سنة بفضل."
+    },
+    {
+      "id": "s018",
+      "full_name": "Engineer 018",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "خمس سنين عدت زي الـ while loop، من غير break."
+    },
+    {
+      "id": "s019",
+      "full_name": "Engineer 019",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الـ Deploy على السيرفر: نص ساعة. الشرح للدكتور: ٣ شهور."
+    },
+    {
+      "id": "s020",
+      "full_name": "Engineer 020",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "لو الـ WiFi وقع، البروجكت وقع معاه."
+    },
+    {
+      "id": "s021",
+      "full_name": "Engineer 021",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الفلاشة دي فيها كل حاجة. بس هي فين؟"
+    },
+    {
+      "id": "s022",
+      "full_name": "Engineer 022",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "بنقول للدكتور خلصنا، وبنروح نخلص."
+    },
+    {
+      "id": "s023",
+      "full_name": "Engineer 023",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "أهم Skill اتعلمتها: إني أهز راسي وأنا مش فاهم."
+    },
+    {
+      "id": "s024",
+      "full_name": "Engineer 024",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الـ Team Project: واحد بيشتغل، والباقي بيشجع."
+    },
+    {
+      "id": "s025",
+      "full_name": "Engineer 025",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "بنتخرج إزاي بقى؟ سؤال وجيه."
+    },
+    {
+      "id": "s026",
+      "full_name": "Engineer 026",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "لقيت المعمل بعد ٣ سنين. الحمد لله."
+    },
+    {
+      "id": "s027",
+      "full_name": "Engineer 027",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "بقولك إيه، خلينا نعمل Restart للراوتر الأول."
+    },
+    {
+      "id": "s028",
+      "full_name": "Engineer 028",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "أنا هنام بدري النهاردة. — كل يوم، الساعة ٣ الفجر."
+    },
+    {
+      "id": "s029",
+      "full_name": "Engineer 029",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "كل مشكلة ليها حل على Stack Overflow، غير مشكلتي."
+    },
+    {
+      "id": "s030",
+      "full_name": "Engineer 030",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الـ Presentation بكرة، والسلايدز لسه فاضية. عادي."
+    },
+    {
+      "id": "s031",
+      "full_name": "Engineer 031",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "لو الكود اشتغل من أول مرة، يبقى فيه حاجة غلط أكيد."
+    },
+    {
+      "id": "s032",
+      "full_name": "Engineer 032",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "أنا الواحد اللي بيشتغل. — كل حد في الجروب"
+    },
+    {
+      "id": "s033",
+      "full_name": "Engineer 033",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الـ Hardware بيكرهني شخصياً."
+    },
+    {
+      "id": "s034",
+      "full_name": "Engineer 034",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "مبنى G متاهة، وأنا المينوتور."
+    },
+    {
+      "id": "s035",
+      "full_name": "Engineer 035",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "مفيش حاجة بتشتغل، وبرضه الحمد لله."
+    },
+    {
+      "id": "s036",
+      "full_name": "Engineer 036",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "الـ Assembly مش صعبة، إنت بس مش فاهم حاجة خالص."
+    },
+    {
+      "id": "s037",
+      "full_name": "Engineer 037",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "مفيش حاجة بتشتغل، وبرضه الحمد لله."
+    },
+    {
+      "id": "s038",
+      "full_name": "Engineer 038",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 1,
+      "custom_quote": "قهوتين ومحاضرة، ده الروتين."
+    },
+    {
+      "id": "s039",
+      "full_name": "Engineer 039",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "بنقعد في Teues عشان الجو، مش عشان نذاكر."
+    },
+    {
+      "id": "s040",
+      "full_name": "Engineer 040",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "خمس سنين عدت زي الـ while loop، من غير break."
+    },
+    {
+      "id": "s041",
+      "full_name": "Engineer 041",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "ذاكرنا ليلة الامتحان، ومشينا على بركة الله."
+    },
+    {
+      "id": "s042",
+      "full_name": "Engineer 042",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أوحش صوت في الدنيا: الدكتور بيقول «تعالى اشرح»."
+    },
+    {
+      "id": "s043",
+      "full_name": "Engineer 043",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "مفيش حاجة بتشتغل، وبرضه الحمد لله."
+    },
+    {
+      "id": "s044",
+      "full_name": "Engineer 044",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "سطرين كود و ٤ ساعات بندور على الفاصلة المنقوطة."
+    },
+    {
+      "id": "s045",
+      "full_name": "Engineer 045",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "بنتخرج إزاي بقى؟ سؤال وجيه."
+    },
+    {
+      "id": "s046",
+      "full_name": "Engineer 046",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أهم Skill اتعلمتها: إني أهز راسي وأنا مش فاهم."
+    },
+    {
+      "id": "s047",
+      "full_name": "Engineer 047",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الكويز الفجائي ده مش فجائي، إحنا بس مش بنذاكر."
+    },
+    {
+      "id": "s048",
+      "full_name": "Engineer 048",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "المحاضرة الساعة ٨؟ دي شائعة."
+    },
+    {
+      "id": "s049",
+      "full_name": "Engineer 049",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أنا مش تعبان، أنا بس compile بقاله ساعتين."
+    },
+    {
+      "id": "s050",
+      "full_name": "Engineer 050",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "لو الكود اشتغل من أول مرة، يبقى فيه حاجة غلط أكيد."
+    },
+    {
+      "id": "s051",
+      "full_name": "Engineer 051",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الـ Presentation بكرة، والسلايدز لسه فاضية. عادي."
+    },
+    {
+      "id": "s052",
+      "full_name": "Engineer 052",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الديدلاين النهاردة؟ يبقى هنبدأ النهاردة."
+    },
+    {
+      "id": "s053",
+      "full_name": "Engineer 053",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "شحنت اللاب قبل الامتحان؟ لا. طبعاً لا."
+    },
+    {
+      "id": "s054",
+      "full_name": "Engineer 054",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "كل مشكلة ليها حل على Stack Overflow، غير مشكلتي."
+    },
+    {
+      "id": "s055",
+      "full_name": "Engineer 055",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "خمس سنين عدت زي الـ while loop، من غير break."
+    },
+    {
+      "id": "s056",
+      "full_name": "Engineer 056",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الكافيتريا هي المعمل الحقيقي."
+    },
+    {
+      "id": "s057",
+      "full_name": "Engineer 057",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أهم Skill اتعلمتها: إني أهز راسي وأنا مش فاهم."
+    },
+    {
+      "id": "s058",
+      "full_name": "Engineer 058",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أهم Skill اتعلمتها: إني أهز راسي وأنا مش فاهم."
+    },
+    {
+      "id": "s059",
+      "full_name": "Engineer 059",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أول مرة أشوف الكود بتاعي وأقول: مين اللي كتب ده؟ وأكتشف إني أنا."
+    },
+    {
+      "id": "s060",
+      "full_name": "Engineer 060",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "لو الكود اشتغل من أول مرة، يبقى فيه حاجة غلط أكيد."
+    },
+    {
+      "id": "s061",
+      "full_name": "Engineer 061",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "print('here') — أقوى أداة Debugging اخترعها الإنسان."
+    },
+    {
+      "id": "s062",
+      "full_name": "Engineer 062",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الـ Segmentation Fault ده صاحبي من سنة تانية."
+    },
+    {
+      "id": "s063",
+      "full_name": "Engineer 063",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "سطرين كود و ٤ ساعات بندور على الفاصلة المنقوطة."
+    },
+    {
+      "id": "s064",
+      "full_name": "Engineer 064",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "كل مشكلة ليها حل على Stack Overflow، غير مشكلتي."
+    },
+    {
+      "id": "s065",
+      "full_name": "Engineer 065",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الـ Presentation بكرة، والسلايدز لسه فاضية. عادي."
+    },
+    {
+      "id": "s066",
+      "full_name": "Engineer 066",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أنا بحب البرمجة، البرمجة هي اللي مش بتحبني."
+    },
+    {
+      "id": "s067",
+      "full_name": "Engineer 067",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أنا مش بعمل Debug، أنا بتفاوض مع الكود."
+    },
+    {
+      "id": "s068",
+      "full_name": "Engineer 068",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الفلاشة دي فيها كل حاجة. بس هي فين؟"
+    },
+    {
+      "id": "s069",
+      "full_name": "Engineer 069",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "خدت الكورس ده عشان الاسم كان حلو."
+    },
+    {
+      "id": "s070",
+      "full_name": "Engineer 070",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الـ Git merge conflict ده هيخلص صداقات."
+    },
+    {
+      "id": "s071",
+      "full_name": "Engineer 071",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "Ctrl+C, Ctrl+V — أقوى Design Pattern في الكلية."
+    },
+    {
+      "id": "s072",
+      "full_name": "Engineer 072",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الـ Deploy على السيرفر: نص ساعة. الشرح للدكتور: ٣ شهور."
+    },
+    {
+      "id": "s073",
+      "full_name": "Engineer 073",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "أوحش صوت في الدنيا: الدكتور بيقول «تعالى اشرح»."
+    },
+    {
+      "id": "s074",
+      "full_name": "Engineer 074",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "قهوتين ومحاضرة، ده الروتين."
+    },
+    {
+      "id": "s075",
+      "full_name": "Engineer 075",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الـ StackOverflow هو الدكتور الحقيقي بتاعي."
+    },
+    {
+      "id": "s076",
+      "full_name": "Engineer 076",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 2,
+      "custom_quote": "الـ Team Project: واحد بيشتغل، والباقي بيشجع."
+    },
+    {
+      "id": "s077",
+      "full_name": "Engineer 077",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "ذاكرنا ليلة الامتحان، ومشينا على بركة الله."
+    },
+    {
+      "id": "s078",
+      "full_name": "Engineer 078",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "مفيش حاجة اسمها bug، دي feature مش متوثقة."
+    },
+    {
+      "id": "s079",
+      "full_name": "Engineer 079",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بقولك إيه، خلينا نعمل Restart للراوتر الأول."
+    },
+    {
+      "id": "s080",
+      "full_name": "Engineer 080",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "حفظت الـ Slides، مفهمتش حاجة، جبت امتياز."
+    },
+    {
+      "id": "s081",
+      "full_name": "Engineer 081",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "حفظت الـ Slides، مفهمتش حاجة، جبت امتياز."
+    },
+    {
+      "id": "s082",
+      "full_name": "Engineer 082",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "شحنت اللاب قبل الامتحان؟ لا. طبعاً لا."
+    },
+    {
+      "id": "s083",
+      "full_name": "Engineer 083",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "أجمل صوت في الدنيا: Build Successful."
+    },
+    {
+      "id": "s084",
+      "full_name": "Engineer 084",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "الدفعة دي أحسن Exception حصلت في حياتي."
+    },
+    {
+      "id": "s085",
+      "full_name": "Engineer 085",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "الـ Git merge conflict ده هيخلص صداقات."
+    },
+    {
+      "id": "s086",
+      "full_name": "Engineer 086",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "كل مشكلة ليها حل على Stack Overflow، غير مشكلتي."
+    },
+    {
+      "id": "s087",
+      "full_name": "Engineer 087",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "المحاضرة الساعة ٨؟ دي شائعة."
+    },
+    {
+      "id": "s088",
+      "full_name": "Engineer 088",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بعد ٥ سنين، لسه بقول الـ Pointer ده رايح فين."
+    },
+    {
+      "id": "s089",
+      "full_name": "Engineer 089",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "أنا مش بنام قليل، أنا بعمل Power Saving Mode."
+    },
+    {
+      "id": "s090",
+      "full_name": "Engineer 090",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "لو الـ WiFi وقع، البروجكت وقع معاه."
+    },
+    {
+      "id": "s091",
+      "full_name": "Engineer 091",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "الفلاشة دي فيها كل حاجة. بس هي فين؟"
+    },
+    {
+      "id": "s092",
+      "full_name": "Engineer 092",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "الـ Git merge conflict ده هيخلص صداقات."
+    },
+    {
+      "id": "s093",
+      "full_name": "Engineer 093",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "شحنت اللاب قبل الامتحان؟ لا. طبعاً لا."
+    },
+    {
+      "id": "s094",
+      "full_name": "Engineer 094",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بنتخرج إزاي بقى؟ سؤال وجيه."
+    },
+    {
+      "id": "s095",
+      "full_name": "Engineer 095",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "حفظت الـ Slides، مفهمتش حاجة، جبت امتياز."
+    },
+    {
+      "id": "s096",
+      "full_name": "Engineer 096",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "الـ Team Project: واحد بيشتغل، والباقي بيشجع."
+    },
+    {
+      "id": "s097",
+      "full_name": "Engineer 097",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "الـ Git merge conflict ده هيخلص صداقات."
+    },
+    {
+      "id": "s098",
+      "full_name": "Engineer 098",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "شحنت اللاب قبل الامتحان؟ لا. طبعاً لا."
+    },
+    {
+      "id": "s099",
+      "full_name": "Engineer 099",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بعد ٥ سنين، لسه بقول الـ Pointer ده رايح فين."
+    },
+    {
+      "id": "s100",
+      "full_name": "Engineer 100",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "الـ Deploy على السيرفر: نص ساعة. الشرح للدكتور: ٣ شهور."
+    },
+    {
+      "id": "s101",
+      "full_name": "Engineer 101",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "لو رجع بيا الزمن، هختار نفس الكلية. وهندم تاني."
+    },
+    {
+      "id": "s102",
+      "full_name": "Engineer 102",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "أجمل صوت في الدنيا: Build Successful."
+    },
+    {
+      "id": "s103",
+      "full_name": "Engineer 103",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بنتخرج إزاي بقى؟ سؤال وجيه."
+    },
+    {
+      "id": "s104",
+      "full_name": "Engineer 104",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "كل واحد فينا كان Thread، والنهاردة بنعمل join."
+    },
+    {
+      "id": "s105",
+      "full_name": "Engineer 105",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "شغال على الـ Bug ده من امبارح، طلع اسم المتغير غلط."
+    },
+    {
+      "id": "s106",
+      "full_name": "Engineer 106",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "أجمل صوت في الدنيا: Build Successful."
+    },
+    {
+      "id": "s107",
+      "full_name": "Engineer 107",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "لو رجع بيا الزمن، هختار نفس الكلية. وهندم تاني."
+    },
+    {
+      "id": "s108",
+      "full_name": "Engineer 108",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بقولك إيه، خلينا نعمل Restart للراوتر الأول."
+    },
+    {
+      "id": "s109",
+      "full_name": "Engineer 109",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "أنا هنام بدري النهاردة. — كل يوم، الساعة ٣ الفجر."
+    },
+    {
+      "id": "s110",
+      "full_name": "Engineer 110",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بنحل الشيت جماعي عشان الغلط يبقى جماعي."
+    },
+    {
+      "id": "s111",
+      "full_name": "Engineer 111",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "بنحل الشيت جماعي عشان الغلط يبقى جماعي."
+    },
+    {
+      "id": "s112",
+      "full_name": "Engineer 112",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "مفيش حاجة اسمها bug، دي feature مش متوثقة."
+    },
+    {
+      "id": "s113",
+      "full_name": "Engineer 113",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "أوحش صوت في الدنيا: الدكتور بيقول «تعالى اشرح»."
+    },
+    {
+      "id": "s114",
+      "full_name": "Engineer 114",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 3,
+      "custom_quote": "كل واحد فينا كان Thread، والنهاردة بنعمل join."
+    },
+    {
+      "id": "s115",
+      "full_name": "Engineer 115",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "بنعمل Documentation؟ إحنا لسه مخلصناش Code."
+    },
+    {
+      "id": "s116",
+      "full_name": "Engineer 116",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "لقيت المعمل بعد ٣ سنين. الحمد لله."
+    },
+    {
+      "id": "s117",
+      "full_name": "Engineer 117",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "بنقول للدكتور خلصنا، وبنروح نخلص."
+    },
+    {
+      "id": "s118",
+      "full_name": "Engineer 118",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الـ StackOverflow هو الدكتور الحقيقي بتاعي."
+    },
+    {
+      "id": "s119",
+      "full_name": "Engineer 119",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الفلاشة دي فيها كل حاجة. بس هي فين؟"
+    },
+    {
+      "id": "s120",
+      "full_name": "Engineer 120",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "أوحش صوت في الدنيا: الدكتور بيقول «تعالى اشرح»."
+    },
+    {
+      "id": "s121",
+      "full_name": "Engineer 121",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "أنا مش بنام قليل، أنا بعمل Power Saving Mode."
+    },
+    {
+      "id": "s122",
+      "full_name": "Engineer 122",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "كل سنة بقول هغير تخصص، وكل سنة بفضل."
+    },
+    {
+      "id": "s123",
+      "full_name": "Engineer 123",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "حفظت الـ Slides، مفهمتش حاجة، جبت امتياز."
+    },
+    {
+      "id": "s124",
+      "full_name": "Engineer 124",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الـ Segmentation Fault ده صاحبي من سنة تانية."
+    },
+    {
+      "id": "s125",
+      "full_name": "Engineer 125",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الـ Segmentation Fault ده صاحبي من سنة تانية."
+    },
+    {
+      "id": "s126",
+      "full_name": "Engineer 126",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "أنا مش تعبان، أنا بس compile بقاله ساعتين."
+    },
+    {
+      "id": "s127",
+      "full_name": "Engineer 127",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "بنقول للدكتور خلصنا، وبنروح نخلص."
+    },
+    {
+      "id": "s128",
+      "full_name": "Engineer 128",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "سطرين كود و ٤ ساعات بندور على الفاصلة المنقوطة."
+    },
+    {
+      "id": "s129",
+      "full_name": "Engineer 129",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "يوم التخرج ده الـ return statement بتاعنا."
+    },
+    {
+      "id": "s130",
+      "full_name": "Engineer 130",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "لقيت المعمل بعد ٣ سنين. الحمد لله."
+    },
+    {
+      "id": "s131",
+      "full_name": "Engineer 131",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "Ctrl+C, Ctrl+V — أقوى Design Pattern في الكلية."
+    },
+    {
+      "id": "s132",
+      "full_name": "Engineer 132",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "التراب الجاي ده أنا هبقى منظم فيه. — قالها ٨ ترمات."
+    },
+    {
+      "id": "s133",
+      "full_name": "Engineer 133",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "أنا هنام بدري النهاردة. — كل يوم، الساعة ٣ الفجر."
+    },
+    {
+      "id": "s134",
+      "full_name": "Engineer 134",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "خمس سنين عدت زي الـ while loop، من غير break."
+    },
+    {
+      "id": "s135",
+      "full_name": "Engineer 135",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الـ Assembly مش صعبة، إنت بس مش فاهم حاجة خالص."
+    },
+    {
+      "id": "s136",
+      "full_name": "Engineer 136",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "مفيش حاجة بتشتغل، وبرضه الحمد لله."
+    },
+    {
+      "id": "s137",
+      "full_name": "Engineer 137",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "أنا مش بعمل Debug، أنا بتفاوض مع الكود."
+    },
+    {
+      "id": "s138",
+      "full_name": "Engineer 138",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "أنا مش بعمل Debug، أنا بتفاوض مع الكود."
+    },
+    {
+      "id": "s139",
+      "full_name": "Engineer 139",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "التراب الجاي ده أنا هبقى منظم فيه. — قالها ٨ ترمات."
+    },
+    {
+      "id": "s140",
+      "full_name": "Engineer 140",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "كل مشكلة ليها حل على Stack Overflow، غير مشكلتي."
+    },
+    {
+      "id": "s141",
+      "full_name": "Engineer 141",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "لو رجع بيا الزمن، هختار نفس الكلية. وهندم تاني."
+    },
+    {
+      "id": "s142",
+      "full_name": "Engineer 142",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "سطرين كود و ٤ ساعات بندور على الفاصلة المنقوطة."
+    },
+    {
+      "id": "s143",
+      "full_name": "Engineer 143",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الـ Presentation بكرة، والسلايدز لسه فاضية. عادي."
+    },
+    {
+      "id": "s144",
+      "full_name": "Engineer 144",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "حياتي كلها Try / Catch."
+    },
+    {
+      "id": "s145",
+      "full_name": "Engineer 145",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "خدت الكورس ده عشان الاسم كان حلو."
+    },
+    {
+      "id": "s146",
+      "full_name": "Engineer 146",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "لو رجع بيا الزمن، هختار نفس الكلية. وهندم تاني."
+    },
+    {
+      "id": "s147",
+      "full_name": "Engineer 147",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "لو رجع بيا الزمن، هختار نفس الكلية. وهندم تاني."
+    },
+    {
+      "id": "s148",
+      "full_name": "Engineer 148",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "بنعمل Documentation؟ إحنا لسه مخلصناش Code."
+    },
+    {
+      "id": "s149",
+      "full_name": "Engineer 149",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "print('here') — أقوى أداة Debugging اخترعها الإنسان."
+    },
+    {
+      "id": "s150",
+      "full_name": "Engineer 150",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الديدلاين النهاردة؟ يبقى هنبدأ النهاردة."
+    },
+    {
+      "id": "s151",
+      "full_name": "Engineer 151",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 4,
+      "custom_quote": "الدفعة دي أحسن Exception حصلت في حياتي."
+    },
+    {
+      "id": "s152",
+      "full_name": "Engineer 152",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "لقيت المعمل بعد ٣ سنين. الحمد لله."
+    },
+    {
+      "id": "s153",
+      "full_name": "Engineer 153",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "مفيش حاجة اسمها bug، دي feature مش متوثقة."
+    },
+    {
+      "id": "s154",
+      "full_name": "Engineer 154",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "أنا مخلص المشروع… في دماغي."
+    },
+    {
+      "id": "s155",
+      "full_name": "Engineer 155",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "خدت الكورس ده عشان الاسم كان حلو."
+    },
+    {
+      "id": "s156",
+      "full_name": "Engineer 156",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الكويز الفجائي ده مش فجائي، إحنا بس مش بنذاكر."
+    },
+    {
+      "id": "s157",
+      "full_name": "Engineer 157",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "أهم Skill اتعلمتها: إني أهز راسي وأنا مش فاهم."
+    },
+    {
+      "id": "s158",
+      "full_name": "Engineer 158",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "كل سنة بقول هغير تخصص، وكل سنة بفضل."
+    },
+    {
+      "id": "s159",
+      "full_name": "Engineer 159",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "لو الكود اشتغل من أول مرة، يبقى فيه حاجة غلط أكيد."
+    },
+    {
+      "id": "s160",
+      "full_name": "Engineer 160",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الـ Hardware بيكرهني شخصياً."
+    },
+    {
+      "id": "s161",
+      "full_name": "Engineer 161",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "بنتخرج إزاي بقى؟ سؤال وجيه."
+    },
+    {
+      "id": "s162",
+      "full_name": "Engineer 162",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "بنقول للدكتور خلصنا، وبنروح نخلص."
+    },
+    {
+      "id": "s163",
+      "full_name": "Engineer 163",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "التراب الجاي ده أنا هبقى منظم فيه. — قالها ٨ ترمات."
+    },
+    {
+      "id": "s164",
+      "full_name": "Engineer 164",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "كل سنة بقول هغير تخصص، وكل سنة بفضل."
+    },
+    {
+      "id": "s165",
+      "full_name": "Engineer 165",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "Ctrl+C, Ctrl+V — أقوى Design Pattern في الكلية."
+    },
+    {
+      "id": "s166",
+      "full_name": "Engineer 166",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "أنا مخلص المشروع… في دماغي."
+    },
+    {
+      "id": "s167",
+      "full_name": "Engineer 167",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الدفعة دي أحسن Exception حصلت في حياتي."
+    },
+    {
+      "id": "s168",
+      "full_name": "Engineer 168",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الترم ده سهل. — الجملة اللي بتجيب النحس."
+    },
+    {
+      "id": "s169",
+      "full_name": "Engineer 169",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الفلاشة دي فيها كل حاجة. بس هي فين؟"
+    },
+    {
+      "id": "s170",
+      "full_name": "Engineer 170",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "بنحل الشيت جماعي عشان الغلط يبقى جماعي."
+    },
+    {
+      "id": "s171",
+      "full_name": "Engineer 171",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الـ Git merge conflict ده هيخلص صداقات."
+    },
+    {
+      "id": "s172",
+      "full_name": "Engineer 172",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "بعد ٥ سنين، لسه بقول الـ Pointer ده رايح فين."
+    },
+    {
+      "id": "s173",
+      "full_name": "Engineer 173",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "كل واحد فينا كان Thread، والنهاردة بنعمل join."
+    },
+    {
+      "id": "s174",
+      "full_name": "Engineer 174",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "بنقول للدكتور خلصنا، وبنروح نخلص."
+    },
+    {
+      "id": "s175",
+      "full_name": "Engineer 175",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "اللحام في المعمل فن، وأنا فنان فاشل."
+    },
+    {
+      "id": "s176",
+      "full_name": "Engineer 176",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "سطرين كود و ٤ ساعات بندور على الفاصلة المنقوطة."
+    },
+    {
+      "id": "s177",
+      "full_name": "Engineer 177",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "لو الكود اشتغل من أول مرة، يبقى فيه حاجة غلط أكيد."
+    },
+    {
+      "id": "s178",
+      "full_name": "Engineer 178",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الـ Git merge conflict ده هيخلص صداقات."
+    },
+    {
+      "id": "s179",
+      "full_name": "Engineer 179",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "لو الـ WiFi وقع، البروجكت وقع معاه."
+    },
+    {
+      "id": "s180",
+      "full_name": "Engineer 180",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "أول مرة أشوف الكود بتاعي وأقول: مين اللي كتب ده؟ وأكتشف إني أنا."
+    },
+    {
+      "id": "s181",
+      "full_name": "Engineer 181",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الفلاشة دي فيها كل حاجة. بس هي فين؟"
+    },
+    {
+      "id": "s182",
+      "full_name": "Engineer 182",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الشيت ده اتحل امبارح… بس مش عارف مين حله."
+    },
+    {
+      "id": "s183",
+      "full_name": "Engineer 183",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "مفيش حاجة اسمها bug، دي feature مش متوثقة."
+    },
+    {
+      "id": "s184",
+      "full_name": "Engineer 184",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "خمس سنين عدت زي الـ while loop، من غير break."
+    },
+    {
+      "id": "s185",
+      "full_name": "Engineer 185",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "بنقعد في Teues عشان الجو، مش عشان نذاكر."
+    },
+    {
+      "id": "s186",
+      "full_name": "Engineer 186",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "خدت الكورس ده عشان الاسم كان حلو."
+    },
+    {
+      "id": "s187",
+      "full_name": "Engineer 187",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "الـ Hardware بيكرهني شخصياً."
+    },
+    {
+      "id": "s188",
+      "full_name": "Engineer 188",
+      "nickname": "",
+      "baby_photo_url": "",
+      "stage": 5,
+      "custom_quote": "أنا مش بعمل Debug، أنا بتفاوض مع الكود."
+    }
+  ]
+}

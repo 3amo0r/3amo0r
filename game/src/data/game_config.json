@@ -1,0 +1,279 @@
+{
+  "title": "The AAST 2026 Odyssey",
+  "subtitle": "خمس سنين في لعبة واحدة",
+  "tileSize": 16,
+  "viewWidth": 480,
+  "viewHeight": 270,
+  "player": {
+    "speed": 78,
+    "coffeeSpeed": 122,
+    "maxBattery": 100,
+    "batteryDrainPerSecond": 0.55,
+    "invulnerableMs": 900,
+    "interactRange": 26
+  },
+  "scoring": {
+    "talkGpa": 8,
+    "flashDriveGpa": 25,
+    "solvedSheetGpa": 15,
+    "coffeeGpa": 4,
+    "stageClearGpa": 120,
+    "bossClearGpa": 400,
+    "maxGpaDisplay": 4.0
+  },
+  "palette": {
+    "ink": "#10131c",
+    "night": "#1b2233",
+    "slate": "#2f3b54",
+    "steel": "#4a5b7d",
+    "mist": "#8ea3c4",
+    "paper": "#e8eef7",
+    "gold": "#ffc94a",
+    "amber": "#ff9e3d",
+    "coral": "#ff5d5d",
+    "mint": "#4fe0a8",
+    "sky": "#4fb4ff",
+    "violet": "#9d7bff",
+    "grass": "#3f9a52",
+    "grassDark": "#2f7540",
+    "sand": "#c9a97a",
+    "wood": "#8a5a36",
+    "screenBlue": "#0b3ea8"
+  },
+  "powerups": {
+    "extension": {
+      "label": "Deadline Extension",
+      "labelAr": "تمديد الديدلاين",
+      "icon": "clock",
+      "color": "#4fb4ff",
+      "seconds": 45,
+      "blurb": "+45 ثانية على العداد"
+    },
+    "shield": {
+      "label": "Bug Shield",
+      "labelAr": "درع ضد الـ Bugs",
+      "icon": "shield",
+      "color": "#9d7bff",
+      "durationMs": 12000,
+      "blurb": "مناعة من الباجات ١٢ ثانية"
+    },
+    "cleanCode": {
+      "label": "Clean Code Manual",
+      "labelAr": "مانيوال الكود النضيف",
+      "icon": "book",
+      "color": "#4fe0a8",
+      "damageMultiplier": 2,
+      "blurb": "ضربات الـ Deploy بتبقى الضعف"
+    },
+    "restore": {
+      "label": "Full Charge",
+      "labelAr": "شحن كامل",
+      "icon": "battery",
+      "color": "#ffc94a",
+      "blurb": "بطارية اللاب فل"
+    },
+    "coffee": {
+      "label": "Espresso Shot",
+      "labelAr": "قهوة",
+      "icon": "cup",
+      "color": "#8a5a36",
+      "durationMs": 8000,
+      "battery": 18,
+      "blurb": "سرعة زيادة + شحن"
+    }
+  },
+  "staff": [
+    {
+      "id": "allam",
+      "name": "Dr. Allam",
+      "nameAr": "د. علام",
+      "grants": "extension",
+      "level": 1,
+      "look": { "hair": "#3a3a3a", "shirt": "#2f3b54", "skin": "#d8a271", "style": "coat" },
+      "lines": [
+        "خد Extension يا بني، بس دي آخر مرة.",
+        "الوقت اتمد. استغله صح المرة دي.",
+        "أنا عارف إنك لسه مبدأتش. اتفضل."
+      ]
+    },
+    {
+      "id": "moataz",
+      "name": "Dr. Moataz Amer",
+      "nameAr": "د. معتز عامر",
+      "grants": "shield",
+      "level": 2,
+      "look": { "hair": "#22222a", "shirt": "#4a5b7d", "skin": "#c98f63", "style": "coat" },
+      "lines": [
+        "خد الدرع ده، الباجات اللي جاية مش هزار.",
+        "حاول متقعش في نفس الغلطة مرتين.",
+        "الـ Exception Handling مش رفاهية."
+      ]
+    },
+    {
+      "id": "mazen",
+      "name": "Dr. Mazen El-Agamy",
+      "nameAr": "د. مازن العجمي",
+      "grants": "cleanCode",
+      "level": 3,
+      "look": { "hair": "#4a3428", "shirt": "#2f7540", "skin": "#d8a271", "style": "coat" },
+      "lines": [
+        "الكود النضيف سلاح. خد المانيوال.",
+        "لو الفنكشن بتاعتك أطول من الشاشة، اقسمها.",
+        "اسم المتغير الكويس بيوفر عليك ساعتين Debugging."
+      ]
+    },
+    {
+      "id": "doweib",
+      "name": "Eng. Doweib",
+      "nameAr": "م. دويب",
+      "grants": "restore",
+      "level": 3,
+      "look": { "hair": "#1e1e26", "shirt": "#ff9e3d", "skin": "#c98f63", "style": "tee" },
+      "lines": [
+        "هات اللاب، هشحنهولك. وبلاش تفصله تاني.",
+        "المعمل مفتوح، بس رجع الأدوات مكانها.",
+        "اللي قدامك ألغام كويزات، امشي على المسار الفاضي."
+      ]
+    },
+    {
+      "id": "reham",
+      "name": "Eng. Reham",
+      "nameAr": "م. ريهام",
+      "grants": "restore",
+      "level": 4,
+      "look": { "hair": "#2a2320", "shirt": "#9d7bff", "skin": "#e0b183", "style": "hijab" },
+      "lines": [
+        "بطاريتك فل. يلا بقى، الديدلاين مستنيش.",
+        "قبل ما تسلم، اعمل Backup. مرتين.",
+        "المرحلة الجاية الوقت فيها بيجري، متقفش كتير."
+      ]
+    }
+  ],
+  "levels": [
+    {
+      "id": 1,
+      "key": "prep",
+      "name": "Prep Year",
+      "nameAr": "إعدادي",
+      "place": "The Courtyard",
+      "placeAr": "ساحة الكلية",
+      "terminal": [
+        "> booting AAST_Odyssey.exe ...",
+        "> mounting /year/prep",
+        "> Compiling Prep_Year.c ... done",
+        "> loading Courtyard environment ..."
+      ],
+      "timeLimit": 240,
+      "music": "calm",
+      "talkGoal": 10,
+      "hazard": { "type": "sheets", "count": 12, "damage": 9, "speed": 44 },
+      "pickups": { "coffee": 5, "flash": 3, "sheet": 4 },
+      "hint": "الشيتات الطايرة بتاكل من بطاريتك. البن البرازيلي بيشحنك ويسرّعك."
+    },
+    {
+      "id": 2,
+      "key": "buildingG",
+      "name": "Year One",
+      "nameAr": "سنة أولى",
+      "place": "Building G",
+      "placeAr": "مبنى G",
+      "terminal": [
+        "> Compiling Year_1: Building_G.cpp ... done",
+        "> WARNING: corridor topology is non-euclidean",
+        "> searching for /labs/programming ...",
+        "> loading Building_G ..."
+      ],
+      "timeLimit": 260,
+      "music": "corridor",
+      "talkGoal": 12,
+      "hazard": { "type": "sheets", "count": 14, "damage": 10, "speed": 52 },
+      "pickups": { "coffee": 4, "flash": 4, "sheet": 5 },
+      "hint": "دوّر على معمل البرمجة وسط الممرات. الجداول المعلقة مش هتساعدك."
+    },
+    {
+      "id": 3,
+      "key": "hardware",
+      "name": "Year Two",
+      "nameAr": "سنة تانية",
+      "place": "The Hardware Labs",
+      "placeAr": "معامل الهاردوير",
+      "terminal": [
+        "> Compiling Year_2: Hardware.v ... done",
+        "> flashing FPGA ... ok",
+        "> ALERT: pop quizzes detected on the floor",
+        "> loading Hardware_Labs ..."
+      ],
+      "timeLimit": 280,
+      "music": "lab",
+      "talkGoal": 12,
+      "hazard": { "type": "quizmines", "count": 16, "damage": 16 },
+      "pickups": { "coffee": 5, "flash": 5, "sheet": 4 },
+      "hint": "الألغام دي كويزات فجائية. الكافيتريا آمنة، زمايلك هناك بيشحنوك."
+    },
+    {
+      "id": 4,
+      "key": "crunch",
+      "name": "Years Three & Four",
+      "nameAr": "تالتة ورابعة",
+      "place": "Teues & Cilantro",
+      "placeAr": "تيوس و سيلانترو",
+      "terminal": [
+        "> Compiling Year_3_4: Projects.py ...",
+        "> ERROR: deadline approaching at 3x speed",
+        "> caffeine levels: critical",
+        "> loading Teues Environment ..."
+      ],
+      "timeLimit": 200,
+      "music": "crunch",
+      "talkGoal": 14,
+      "hazard": { "type": "sheets", "count": 18, "damage": 11, "speed": 64 },
+      "pickups": { "coffee": 7, "flash": 6, "sheet": 5 },
+      "hint": "الوقت هنا بيجري. اجمع الأكواد من زمايلك اللي على الترابيزات بسرعة."
+    },
+    {
+      "id": 5,
+      "key": "defense",
+      "name": "Final Semester",
+      "nameAr": "الترم الأخير",
+      "place": "The Defense Hall",
+      "placeAr": "قاعة المناقشة",
+      "terminal": [
+        "> Compiling Graduation_Project ...",
+        "> linking 188 contributors ... ok",
+        "> Dr. Shereen Youssef has entered the room",
+        "> good luck."
+      ],
+      "timeLimit": 300,
+      "music": "tense",
+      "talkGoal": 10,
+      "hazard": { "type": "sheets", "count": 10, "damage": 8, "speed": 58 },
+      "pickups": { "coffee": 6, "flash": 4, "sheet": 3 },
+      "hint": "كلّم زمايلك وخد آخر Power-ups قبل ما تدخل على الدكتورة شيرين."
+    }
+  ],
+  "boss": {
+    "name": "Dr. Shereen Youssef",
+    "nameAr": "د. شيرين يوسف",
+    "look": { "hair": "#241c1a", "shirt": "#7a1f3d", "skin": "#e0b183", "style": "hijab" },
+    "deployGoal": 100,
+    "deployPerHit": 7,
+    "attacks": [
+      { "id": "requirements", "label": "Complex Requirements", "labelAr": "ريكوايرمنتس معقدة", "damage": 14, "color": "#ff5d5d" },
+      { "id": "hardware", "label": "Hardware Failure", "labelAr": "عطل في الهاردوير", "damage": 12, "color": "#ff9e3d" },
+      { "id": "question", "label": "Unexpected Question", "labelAr": "سؤال مفاجئ", "damage": 10, "color": "#9d7bff" }
+    ],
+    "openingLines": [
+      "اتفضل، ورينا المشروع.",
+      "قبل ما تبدأ، عندي كام سؤال بسيط.",
+      "الـ Requirements اتغيرت امبارح. عارف طبعاً."
+    ],
+    "defeatLines": [
+      "كده تمام. مبروك يا مهندس.",
+      "المشروع اشتغل. أخيراً."
+    ]
+  },
+  "share": {
+    "template": "I just escaped Building G and graduated with my 188 peers in The AAST 2026 Odyssey! My speedrun time: {time} — GPA {gpa}",
+    "hashtags": "AAST2026,Graduation,ComputerEngineering"
+  }
+}

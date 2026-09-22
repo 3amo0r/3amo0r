@@ -1,0 +1,2 @@
+Imported baby photos land here as 64x64 .webp files.
+Run: python3 scripts/build_students.py --import <folder-of-photos>
